@@ -2,3 +2,8 @@ custom:
   messages:
     notnull: "Tag information is required. (Version 2 - HOTFIX!!!)"
     size: "Please enter 5 tags. (Version 2 - HOTFIX!!!)"
+
+alidation:
+  tags:
+    size: "태그는 최소 {min}개 이상 입력해야 합니다!"
+    notnull: "태그 정보는 필수입니다."
