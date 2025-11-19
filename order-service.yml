@@ -1,4 +1,4 @@
 custom:
   messages:
-    notnull: "Tag information is required. (Version 1)"
-    size: "Please enter 5 tags. (Version 1)"
+    notnull: "Tag information is required. (Version 2 - HOTFIX!!!)"
+    size: "Please enter 5 tags. (Version 2 - HOTFIX!!!)"
