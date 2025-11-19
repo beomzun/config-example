@@ -1,4 +1,4 @@
 custom:
   messages:
-    notnull: "Tag information is required. (Version 2 - HOTFIX!!!)"
-    size: "Please enter 5 tags. (Version 2 - HOTFIX!!!)"
+    notnull: "태그 없는 망곰이"
+    size: "망곰이 이름은 5글자 제한"
