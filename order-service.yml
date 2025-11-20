@@ -1,7 +1,7 @@
 custom:
   messages:
-    notnull: "Tag information is required. (Version 2 - HOTFIX!!!)"
-    size: "Please enter 5 tags. (Version 2 - HOTFIX!!!)"
+    notnull: "Tag information is required. "
+    size: "Please enter 5 tags. (Version 4 - HOTFIX!!!)"
 
 validation:
   tags:
